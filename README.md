@@ -10,31 +10,9 @@ You know how sometimes you just want to chat with someone, even if it's a comput
 
 - **Smart Conversations**: The bot recognizes when you're greeting it, asking for help, or talking about tech stuff
 - **Natural Responses**: I added multiple response options for each topic, so it doesn't sound robotic
-- **Personal Touch**: The advanced version can even remember your name and use it in conversations!
-- **Different Versions**: I made both a simple version and a more advanced one with regex patterns
-
+- **Personal Touch**: The advanced version can even remember your name and use it in conversations
 ## How to Get It Running
-
-### What You'll Need
-```bash
 Python 3.6 or higher (that's it!)
-```
-
-### Running the Chatbot
-1. Download the files to your computer
-2. Open your terminal or command prompt
-3. Navigate to the project folder
-4. Run one of these commands:
-
-```bash
-# For the basic version
-python task1_rule_based_chatbot.py
-
-# For the advanced version with more features
-python task1_advanced_chatbot.py
-```
-
-That's it! The chatbot will start up and you can begin chatting.
 
 ## What You Can Talk About
 
