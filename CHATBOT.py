@@ -1,8 +1,5 @@
-# Task 1: Simple Rule-Based Chatbot
-
 class SimpleChatBot:
     def __init__(self):
-        # Predefined rules and responses
         self.rules = {
             # Greetings
             'greeting': {
